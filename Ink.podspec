@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'Ink/Sources/Ink/**/*'
+  s.source_files = 'Sources/Ink/**/*'
   
   # s.resource_bundles = {
   #   'Ink' => ['Ink/Assets/*.png']
