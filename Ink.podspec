@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Ink'
-  s.version          = '0.5.0'
+  s.version          = '0.5.0.1'
   s.summary          = 'A short description of Ink.'
 
 # This description is used to generate tags and improve search results.
