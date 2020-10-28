@@ -169,7 +169,7 @@ internal struct List: Fragment {
             html.append(item.html(usingURLs: urls, modifiers: modifiers))
         }
 
-        return "<\(tagName)\(startAttribute)>\(body)</\(tagName)>"
+        return "<\(tagName)\(startAttribute)>\(body)</\(tagName)><br/>"
     }
 
     func plainText() -> String {
